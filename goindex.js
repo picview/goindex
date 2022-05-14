@@ -1,12 +1,12 @@
 var authConfig = {
-  "siteName": "goindex", // Sitename
-  "root_pass": "",  // root password, leave it blank if you don't want
+  "siteName": "My Download Site", // Sitename
+  "root_pass": "nickisthebest",  // root password, leave it blank if you don't want
   // "version" : "1.0.7", // Program Version
   "version" : "production", // master OR production, do not leave blank (changes each time you make a commit)
   "theme" : "classic", // material OR classic 
-  "client_id": "******.apps.googleusercontent.com", // client_id from rclone config
-  "client_secret": "*******", // client_secret from rclone config
-  "refresh_token": "*********", // authorized refresh token from rclone config
+  "client_id": "202264815644.apps.googleusercontent.com", // client_id from rclone config
+  "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ", // client_secret from rclone config
+  "refresh_token": "1//0di0UI9ke0aORCgYIARAAGA0SNwF-L9Irq0WRp_FFrxLlk5Ex77wKJI_TUjQJoEFHIklSx7NcX0ZQYzgNhyysHpnh4zTZ-zDfu_Q", // authorized refresh token from rclone config
   "root": "0AL74eWbneC4hUk9PVA" // "root" or ROOT_FOLDER of TeamDrives e.g "0AL74eWbneC4hUk9PVA"
 };
 
